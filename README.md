@@ -1,6 +1,6 @@
 # In-memory Object Store
-Exploring in memory object store for science
-https://arrow.apache.org/blog/
+Exploring in memory object store [Plasma](https://arrow.apache.org/blog/) for science
+
 
   * Pickle vs. Plasma
 
